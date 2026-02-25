@@ -4,6 +4,9 @@
 
 Diagram source (draw.io): `docs/book-factory-architecture.drawio`
 
+Open directly in diagrams.net:
+- https://app.diagrams.net/?lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=book-factory-architecture.drawio#Uhttps%3A%2F%2Fraw.githubusercontent.com%2Farvind3%2Ffactory%2Fmaster%2Fdocs%2Fbook-factory-architecture.drawio
+
 ## Key design highlights
 - Deterministic control plane owned by Program Manager
 - Non-deterministic generation in Author stage (LLM drafting)
